@@ -1,1 +1,1 @@
-<?php header( 'Location: /media-matrix-website.html' ) ;  ?>
+<?php header( 'Location: /media-matrix-premium.html' ) ;  ?>
